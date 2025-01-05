@@ -194,6 +194,10 @@
                       
                             </form>
 
+                          <div class="mt-3">
+                          <a href="{{ route('admin.resume.unduh') }}" class="btn btn-primary">Unduh Resume</a>
+                        </div>
+
                             
 
                       </div>
